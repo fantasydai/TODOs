@@ -1,0 +1,22 @@
+.logs{
+  width:90%;
+  border:1px solid #eee;
+  box-shadow: 2rpx 2rpx  4rpx #888888;
+  border-radius: 10rpx;
+  color:#888888;
+}
+.logs .item{
+  border-bottom:1px solid #eee;
+  padding:15rpx;
+}
+.logs text{
+  display:block;
+  margin-top: 10rpx;
+}
+.logs .name{
+  color:orange;
+}
+.logs .action{
+  text-align: center;
+  color:gold;
+}
